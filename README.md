@@ -1,2 +1,2 @@
 # datasciencecoursera
-reopsitory
+repository
